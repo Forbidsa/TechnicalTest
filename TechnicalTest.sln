@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthOfDate", "MonthOfDate\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByAsc", "OrderByAsc\OrderByAsc.csproj", "{13E800B8-079F-4D61-B0D2-58E42DB47777}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "EvenNumbers\EvenNumbers.csproj", "{628D69A2-0441-429F-B3B9-341B13D81375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{13E800B8-079F-4D61-B0D2-58E42DB47777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13E800B8-079F-4D61-B0D2-58E42DB47777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13E800B8-079F-4D61-B0D2-58E42DB47777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628D69A2-0441-429F-B3B9-341B13D81375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628D69A2-0441-429F-B3B9-341B13D81375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628D69A2-0441-429F-B3B9-341B13D81375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628D69A2-0441-429F-B3B9-341B13D81375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

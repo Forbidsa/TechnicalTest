@@ -30,6 +30,7 @@ for (int i = 0; i < count; i++)
 
 values = values.Where(v => v != null).ToArray();
 values = values.OrderBy(v => v).ToArray();
+values = values.Where(v => v % 2 == 0).ToArray();
 
 if (values.Length == 0)
 {
@@ -43,6 +44,7 @@ else
     foreach (int value in values)
     {
         Console.WriteLine("Value[" + position + "]: " + value);
+
         position++;
     }
 }
