@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByAsc", "OrderByAsc\Or
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "EvenNumbers\EvenNumbers.csproj", "{628D69A2-0441-429F-B3B9-341B13D81375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryList", "MemoryList\MemoryList.csproj", "{9993A98D-503F-440A-A2A8-08B0063D09A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{628D69A2-0441-429F-B3B9-341B13D81375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{628D69A2-0441-429F-B3B9-341B13D81375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{628D69A2-0441-429F-B3B9-341B13D81375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9993A98D-503F-440A-A2A8-08B0063D09A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9993A98D-503F-440A-A2A8-08B0063D09A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9993A98D-503F-440A-A2A8-08B0063D09A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9993A98D-503F-440A-A2A8-08B0063D09A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
